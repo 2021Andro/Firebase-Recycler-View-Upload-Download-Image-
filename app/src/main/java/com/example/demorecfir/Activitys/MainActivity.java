@@ -43,6 +43,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // this project attach FB Name ( Firebase Storage Example )
+        
         ivProfile = findViewById(R.id.ivProfile);
         etPersonName = findViewById(R.id.etPersonName);
         btnAddPerson = findViewById(R.id.btnAddDemo);
